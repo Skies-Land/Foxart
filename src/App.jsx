@@ -1,4 +1,5 @@
 import { Branding } from "./components/Branding";
+import { BulletPoints } from "./components/BulletPoints";
 import { CallToAction } from "./components/CallToAction";
 import { Features } from "./components/Features";
 import { Header } from "./components/Header";
@@ -12,7 +13,7 @@ function App() {
       <Branding />
       <Features />
       <CallToAction />
-      
+      <BulletPoints />
       <CallToAction minify />
     </>
   );
