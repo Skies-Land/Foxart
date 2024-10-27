@@ -12,3 +12,4 @@ Ce projet a été réalisé en suivant un cours YouTube pour approfondir des tec
 - Adaptation des différentes sections de la landing page à tous type d'écran avec le **[Responsive Design de Tailwind CSS](https://tailwindcss.com/docs/responsive-design)**
 
 ## 🔎 Accès au projet - **[Foxart](foxart-63fa8.web.app/)**
+<img width="1400" alt="Capture d’écran 2024-10-27 à 20 04 47" src="https://github.com/user-attachments/assets/f2de92da-0893-405a-b821-802c7b2c41c7">
